@@ -26,3 +26,11 @@ print("--------------------------------")
 
 for i in range(10):
     print(i)
+
+print("----addition of two numbers----")
+
+def addition(a, b):
+    return a+b
+
+value = addition(10, 15)
+print(value)
