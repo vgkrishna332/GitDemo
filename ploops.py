@@ -21,3 +21,8 @@ elif 17< time <=23:
     print("Good Evening")
 else:
     print("Good Night")
+
+print("--------------------------------")
+
+for i in range(10):
+    print(i)
